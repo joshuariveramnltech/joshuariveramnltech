@@ -1,4 +1,4 @@
-### Hi there 👋
+### You *** of a b*tch I'm In :point_left:
 
 <!--
 **joshuariveramnltech/joshuariveramnltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=joshuariveramnltech&show_icons=true&theme=vue-dark)](https://github.com/joshuariveramnltech)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuariveramnltech&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
