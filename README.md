@@ -1,4 +1,4 @@
-### You *** of a b*tch I'm In :point_left:
+### Hi :wave:
 
 <!--
 **joshuariveramnltech/joshuariveramnltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
